@@ -1,0 +1,7 @@
+{
+  "name": "reflectivealignment-api-v2",
+  "version": "1.0.0",
+  "description": "Reflective Alignment API (Vercel + OpenAI, JS-only)",
+  "type": "module",
+  "license": "MIT"
+}
